@@ -1,4 +1,4 @@
-package com.example.guia_03_de_carnet
+package com.example.proyecto
 
 import android.app.Activity
 import android.content.Intent
